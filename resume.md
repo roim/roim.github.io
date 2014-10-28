@@ -50,7 +50,8 @@ Teaching Assistant on Algorithms and Data Structures at ITA, Aug 2012 to Dec 201
 3rd place at the First Facebook Hackathon at São Paulo, May 2012. \\
 1st place at the First Nokia Hackathon at São Paulo, Apr 2012. \\
 3rd place at a Kongregate Weekly Game Contest, Oct 2008. \\
-Completed the Machine Learning online course on coursera.org
+Completed the Machine Learning online course on coursera.org \\
+1st place, 11th. São Paulo Championship of Fanfares and Marching Bands, 1999.
 
 Technical Skills
 ===
