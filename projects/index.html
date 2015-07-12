@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+<div class="col-md-12 main content-panel mdpage">
+  {% capture page_content %}{% include projects.md %}{% endcapture %}
+  {{ page_content | markdownify }}
+</div>

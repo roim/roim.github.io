@@ -1,11 +1,8 @@
----
-layout: page
-title: Projects
-permalink: /projects/
----
-
-Open-Source Projects
+Projects
 ===
+
+Open-Source
+---
 
 [Namerizer][NMRZ] - Chrome extension to rename Facebook friends.
 
@@ -16,21 +13,20 @@ Open-Source Projects
 [Livros Grátis][LVRG] - Android App providing free e-books in Portuguese.
 
 
-Published Projects
-===
+Personal
+---
 
 [Voto x Veto][VOTOVETO] – A mobile app focused on the Brazilian federal and state elections of 2014. Users read excerpts from the government plans of several candidates and vote for or against them, without knowing the author of a specific excerpt. The app then builds a personal ranking of candidates. Developed the Windows Phone version and assisted the development of the other versions. 
 
 [Distopix][DTPX] – Flash game with over 500.000 gameplays on ad-supported versions and likely more than that on ad-free versions. Developed with very little programming experience, focusing on simple yet creative ideas.
 
-[Classic Snake Game][SNAKE] – Simple version of the classic snake game with more than 800.000 gameplays.
+[Classic Snake Game][SNAKE] – My version of the snake game, over 800.000 gameplays.
 
 Bubble Frenzy Attack ([Android][BFRENA], [iOS][BFRENI], [WP][BFRENW]) – Mobile game, several bubbles appear on the screen and the player has to tap 3 such that 2 of them sum to the other.
 
 
 Others
-===
-
+---
 
 [ITAndroids][ITANDROIDS] (Robotics Competitions Team at ITA)
 
