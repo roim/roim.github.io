@@ -1,10 +1,9 @@
 # Site settings
-title: Rodrigo Roim
-title_image: "http://www.gravatar.com/avatar/00000000000000000000000000000000?s=500&d=mm"
+title: rro.im
 name: Rodrigo Roim
 email: rodrigo@rro.im
 description: >
-  Computer engineering student from Brazil.
+  Software Engineer from Brazil.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://rro.im" # the base hostname & protocol for your site
 
@@ -13,7 +12,7 @@ permalink: /:title
 
 # Usernames
 github_username: roim
-linkedin_link: https://br.linkedin.com/in/rodrigoroim
+linkedin_link: https://www.linkedin.com/in/rodrigoroim
 stackoverflow_link: http://stackoverflow.com/users/938782/roim
 
 # Build settings

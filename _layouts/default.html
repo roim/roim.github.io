@@ -5,11 +5,19 @@
 
     <body>
 
-    {% include header.html %}
+    {% include menu.html %}
 
     <div class="page-content">
       <div class="wrap">
-      {{ content }}
+        <div class="container-fluid index">
+          <div class="row">
+
+            {% include header.html %}
+
+            {{ content }}
+            
+          </div>
+        </div>
       </div>
     </div>
 

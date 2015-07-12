@@ -473,21 +473,6 @@ ul {
 		margin-left: 0%;
 		padding: 0px;
 
-		@media (min-width: $screen-sm-min) {
-			width: 90%;
-			margin-left: 5%;
-		}
-
-		@media (min-width: $screen-md-min) {
-			width: 70%;
-			margin-left: 15%;
-		}
-
-		@media (min-width: $screen-lg-min) {
-			width: 50%;
-			margin-left: 25%;
-		}
-
 		.thumb {
 			margin-top: 20px;
 			margin-bottom: 0px;
