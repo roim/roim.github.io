@@ -4,6 +4,8 @@ The contents of this website, which consists of the files in
  * _config.yml
  * _data/
  * _drafts/
+ * _includes/projects.md
+ * _includes/resume.md
  * _posts/
 
 are copyrighted and sole property of their author. They may not be used,
@@ -11,9 +13,12 @@ modified, syndicated or distributed without expressed permission from
 the author.
 
 
-This website is based on Carte Noire, an amazing theme built by Jacob
-Tomlinson, available at <https://github.com/jacobtomlinson/carte-noire/>.
-Carte Noire is licensed under the following GPLv3 license:
+All other files are part of this website's theme, which is based on
+Carte Noire, built by Jacob Tomlinson and available at
+<https://github.com/jacobtomlinson/carte-noire/>.
+
+Both Carte Noire and this website's theme are licensed under the following
+GPLv3 license:
 
 
 This program is free software: you can redistribute it and/or modify
