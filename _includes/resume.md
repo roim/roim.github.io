@@ -63,7 +63,7 @@ Completed the Machine Learning online course on coursera.org
 
 Technical Skills
 ---
-Programming Languages: C#, C/C++, Java, PowerShell, Python, Matlab/Octave, Objective-C
+Programming Languages: C#, C/C++, Java, PowerShell, Python, Matlab/Octave, Objective-C  
 Other skills: git, TFS, .NET, automated testing
 
 [ITA]: 	http://www.ita.br
