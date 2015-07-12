@@ -5,14 +5,26 @@
   </div>
   {% endif %}
 
-  <h1 class="header author-header" itemprop="headline"><a href="{{ site.url }}">{{ site.title }}</a></h1>
+  <h1 class="header author-header" itemprop="headline"><a href="/">{{ site.title }}</a></h1>
   {% if site.title_description %}
   <div class="author-text">
     {{ site.title_description }}
   </div>
   {% endif %}
 
-  <div class="links">
+  <div class="col-md-7 directory">
+    <div class="col-md-4">
+    <a href="/posts/">Blog</a>
+    </div>
+    <div class="col-md-4">
+    <a href="/resume/">Resume</a>
+    </div>
+    <div class="col-md-4">
+    <a href="/projects/">Projects</a>
+    </div>
+  </div>
+
+  <div class="col-md-5 links">
     {% if site.twitter_username %}<a href="http://www.twitter.com/{{ site.twitter_username }}" target="_new"><i class="fa fa-twitter fa-2x"></i></a>{% endif %}
     {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fa fa-linkedin fa-2x"></i></a>{% endif %}
     {% if site.google_plus_link %}<a href="{{ site.google_plus_link }}" target="_new"><i class="fa fa-google-plus fa-2x"></i></a>{% endif %}

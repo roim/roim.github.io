@@ -156,6 +156,20 @@ ul {
   }
 }
 
+.directory {
+  font-size: 26px;
+  margin-top: 25px;
+  text-align: center;
+
+  a, a:active {
+    color: $white;
+  }
+
+  a:hover {
+    color: $light-blue;
+  }
+}
+
 .links {
   margin-top: 25px;
   text-align: center;
