@@ -51,7 +51,7 @@ Designed and implemented interactive math exercises in Java using GWT. Implement
 
 Accomplishments
 ---
-1st place, Latin American Robotics Competition Soccer Simulation League, Oct 2014, Oct 2012.  
+1st place, Latin American Robotics Competition Soccer Simulation League, Oct 2014, 2012.  
 1st place, Brazilian Robotics Competition Soccer Simulation 2D League, Oct 2013.  
 Honorable Mention, Brazilian First Phase of ACM-ICPC, 2014, 2013, 2012, 2011.  
 Teaching Assistant on Algorithms and Data Structures at ITA, Aug 2012 to Dec 2012.  
