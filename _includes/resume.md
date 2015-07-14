@@ -26,7 +26,7 @@ Developed Xbox and Windows 10 marketplace services.
 
 ***
 
-[Microsoft][MS] – Windows Services, Marketplace – Redmond, WA  
+[Microsoft][MS] – Windows Services – Redmond, WA  
 Software Development Engineer in Test Intern (Dec/2013 – Feb/2014)
 
 Worked on an automated test framework written in PowerShell, developing tests and new features for the framework.
@@ -37,7 +37,7 @@ Developed scenario tests to validate a new [Xbox Video][XBXV] scenario where a u
 
 ***
 
-[Microsoft][MS] – Xbox Live, Commercial Services – Redmond, WA  
+[Microsoft][MS] – Xbox Live – Redmond, WA  
 Software Development Engineer in Test Intern (Jan/2013 – Mar/2013)
 
 Developed tools and test code including instrumentation, logging and integration tests for a new Xbox One web service written in C# 5.
