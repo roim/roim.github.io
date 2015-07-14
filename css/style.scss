@@ -753,12 +753,18 @@ ul {
 
 
 .footer {
+  text-align: center;
+
   .footer-left {
-    text-align: left;
+    @media (min-width: $screen-lg-min) {
+      text-align: left;
+    }
   }
 
   .footer-right {
-    text-align: right;
+    @media (min-width: $screen-lg-min) {
+      text-align: right;
+    }
   }
 
   .fa-heart {
