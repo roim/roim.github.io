@@ -26,5 +26,5 @@ exclude: [vendor]
 disqus_account: rroim
 github_repository: https://github.com/roim/roim.github.io
 post_limit: 5
-footer_left: ""
+footer_left: "Copyright (C) Rodrigo Roim Ferreira"
 footer_right: "&lt;/&gt; on <a href=\"https://github.com/roim/roim.github.io\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
