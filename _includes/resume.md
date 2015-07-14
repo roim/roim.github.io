@@ -31,7 +31,7 @@ Software Development Engineer in Test Intern (Dec/2013 – Feb/2014)
 
 Worked on a web service test framework written in PowerShell, developing tests and framework features.
 
-Generated automated performance reports for several windows services using an internal map-reduce tool.
+Created automated performance reports for several windows services using an internal map-reduce tool.
 
 ***
 
