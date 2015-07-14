@@ -1,4 +1,4 @@
-Resume
+Rodrigo Roim Ferreira
 ===
 
 Education
@@ -29,11 +29,9 @@ Developed Xbox and Windows 10 marketplace services.
 [Microsoft][MS] – Windows Services – Redmond, WA  
 Software Development Engineer in Test Intern (Dec/2013 – Feb/2014)
 
-Worked on an automated test framework written in PowerShell, developing tests and new features for the framework.
+Worked on a web service test framework written in PowerShell, developing tests and framework features.
 
-Generated automated reports on service health and performance using an internal map-reduce framework.
-
-Developed scenario tests to validate a new [Xbox Video][XBXV] scenario where a user could purchase/rent a video on a device and later watch it on any other supported device.
+Generated automated performance reports for several windows services using an internal map-reduce tool.
 
 ***
 
@@ -70,5 +68,4 @@ Other skills: git, TFS, .NET, automated testing
 [GOOG]: http://www.google.com
 [MS]: 	http://www.microsoft.com
 [QM]:	http://www.qmagico.com.br
-[XBXV]: http://video.xbox.com
 	
