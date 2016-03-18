@@ -5,7 +5,7 @@ email: rodrigo@rro.im
 description: >
   Software Engineer from Brazil.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://rro.im" # the base hostname & protocol for your site
+url: "http://roim.github.io" # the base hostname & protocol for your site
 
 # Blog settings
 permalink: /:title
