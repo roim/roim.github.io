@@ -1,9 +1,9 @@
 # Site settings
-title: rro.im
+title: Rodrigo Roim
 name: Rodrigo Roim
-email: rodrigo@rro.im
+email: roim.rodrigo@gmail.com
 description: >
-  Software Engineer from Brazil.
+  Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://roim.github.io" # the base hostname & protocol for your site
 
